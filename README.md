@@ -869,4 +869,4 @@ The project also highlights the importance of structures, enumerations, unions, 
 
 Ultimately, the two implementations demonstrate that garbage collection is not simply about freeing memory. It is about correctly determining which objects are still needed, understanding how objects reference one another, and reclaiming memory without destroying data that is still in use.
 
-The main objective of this project is to understand and implement the underlying mechanisms of memory management rather than relying on an automatic garbage collector provided by a higher-level programming language.
+The main objective of this project is to understand and implement the underlying mechanisms of memory management.
